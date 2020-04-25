@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Augmented Reality Translator</string>
+
+
+    <!--
+    Translations List
+-->
+
+    <string name="entour">English to Urdu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="picture">Picture</string>
+    <string name="description_info">This is image Button</string>
+    <string name="request_permission">Request Permission</string>
+    <string name="intro_message">Intro Message</string>
+    <string name="camera_error">Camera Error</string>
+
+    <string name="kudanApikey"></string>
+    <string name="amazon_accesskey"></string>
+    <string name="amazon_secretkey"></string>
+
+</resources>
